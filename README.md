@@ -1,3 +1,4 @@
+<img align="center" alt="banner" src="https://github.com/PriangshuChakraborty/PriangshuChakraborty/blob/main/PRIANGSHU%20CHAKRABORTY.png">
 <h1 align="center">Hi 👋, I'm Priangshu Chakraborty</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ab0f4cfe426b751c7c655e9d65d36918e3c43cde001cd9a9212515b43cc1acdc/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343338323431322f73637265656e73686f74732f31353633333237352f6d656469612f30383561303134656265626465373365356364353130633933393431663439612e676966">
